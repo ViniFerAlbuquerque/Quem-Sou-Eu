@@ -2,4 +2,5 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/Quem-Sou-Eu/7fb5c2a03686268adb0e69772faf6d2a0be09bff/Eu!.jpeg">
+
+<img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/Quem-Sou-Eu/061c2e0e8fefab0c2a474f70f06ec7263fbd85af/Eu02.jpeg" alt="README da página">
